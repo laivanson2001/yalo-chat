@@ -31,7 +31,7 @@ Chạy trên cổng 3000
 npm install.
 npm start.
 
-Chạy trên cổng 3001.
+Chạy trên cổng 8000.
 
 ## Api
 
