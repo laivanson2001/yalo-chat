@@ -5,6 +5,11 @@
 npm install
 npm start
 
+Admin:
+laivanson.dev@gmail.com | 12345678
+User:
+baouyen@gmail.com | 12345678
+
 Chạy trên cổng 3000
 
 ## `Home`
