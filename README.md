@@ -19,7 +19,7 @@ Chạy trên cổng 3000
 -   `/chat`: trang chat chính.
 -   `/chat/friends`: trang bạn bè.
 
-# Zelo App Chat - NodeJs
+# Yalo App Chat - NodeJs
 
 ## Cách chạy
 
